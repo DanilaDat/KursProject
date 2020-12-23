@@ -1,0 +1,29 @@
+﻿  CALENDAR.cpp
+  EXCEPTION.cpp
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\EXCEPTION.cpp(61,23): warning C4018: <: несоответствие типов со знаком и без знака
+  GlobalInformation.cpp
+  HalfAYearPlan.cpp
+  MAIN.cpp
+  INTERFACE.cpp
+  Message.cpp
+  MonthPlans.cpp
+  MyIterator.cpp
+  NodeRing.cpp
+  Notes.cpp
+  Notifications.cpp
+  RING.cpp
+  TxtFile.cpp
+  Создание кода...
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\Notes.cpp(35): warning C4715: Notes::IdentifierBack: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\RING.cpp(83): warning C4715: Ring<Notifications>::RetrieveNode: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\RING.cpp(83): warning C4715: Ring<Message>::RetrieveNode: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\RING.cpp(83): warning C4715: Ring<Notes>::RetrieveNode: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\RING.cpp(83): warning C4715: Ring<MonthPlan>::RetrieveNode: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\RING.cpp(83): warning C4715: Ring<HalfAYearPlan>::RetrieveNode: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\RING.cpp(83): warning C4715: Ring<Calendar>::RetrieveNode: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\HalfAYearPlan.cpp(35): warning C4715: HalfAYearPlan::IdentifierBack: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\CALENDAR.cpp(49): warning C4715: Calendar::GetCharDayOfWeek: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\CALENDAR.cpp(174): warning C4715: Calendar::GetCharMounth: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\CALENDAR.cpp(192): warning C4715: Calendar::GetCharMounth: значение возвращается не при всех путях выполнения
+C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\CALENDAR.cpp(205): warning C4715: Calendar::GetCharDayOfWeek: значение возвращается не при всех путях выполнения
+  Bullet_Jornal.vcxproj -> C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\Debug\Bullet_Jornal.exe

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Calendar">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAEAAAAAgAAAAAAAQAAQIQAAMRgAEAQAAAAA=</HashCode>
+      <FileName>CALENDAR.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlobalInformation">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAAAAAAAAAAAAAAAAACBEAAAAAACMAAAAA=</HashCode>
+      <FileName>GlobalInformation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HalfAYearPlan">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAQQAACAA=</HashCode>
+      <FileName>HalfAYearPlan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Message">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAACAAAAAAAAAABAAAAIAAAAAA=</HashCode>
+      <FileName>Message.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonthPlan">
+    <Position X="1" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAACAAAAAAAAAAAAgAAAAAAAEAAAEAAA=</HashCode>
+      <FileName>MonthPlans.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Notes">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgABAEAAEAAAAABEAgAAAAAAAAAAABAAAAQAAAAAA=</HashCode>
+      <FileName>Notes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Notifications">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEAAAgAAAAEAAAAAAAAAAAAAABAAAAIAAAAAA=</HashCode>
+      <FileName>Notificatons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxtFile&lt;T&gt;">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAIAIAAAAAACAAAEEAAAAQACAAAAAQQgAAAgBA=</HashCode>
+      <FileName>TxtFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exception">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>EXCEPTION.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputException">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>EXCEPTION.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyIterator&lt;T&gt;">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAQAEABQgAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>MyIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ring&lt;T&gt;">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAQAIgAAIAAEAAAAAAAEAAAgABACABgAAAIAAA=</HashCode>
+      <FileName>RING.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAoAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INTERFACE.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="LocalData">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAQAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>CALENDAR.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NodeRing&lt;T&gt;">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAIAAAA=</HashCode>
+      <FileName>NodeRing.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

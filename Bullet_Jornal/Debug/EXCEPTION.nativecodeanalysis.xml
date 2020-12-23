@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Exception::MistakeReport" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Exception::{ctor}</FUNCTION>
+    <DECORATED>??0Exception@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Exception::MistakeReport</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>47</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>41</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>31</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>89</LINE>
+      <COLUMN>31</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>89</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>89</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>6236</DEFECTCODE>
+    <DESCRIPTION>(&lt;выражение&gt; || &lt;ненулевая константа&gt;) всегда равно ненулевой константе.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.cpp</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6385</DEFECTCODE>
+    <DESCRIPTION>Чтение недопустимых данных из "str":  доступный для чтения объем равен "datesize*1" байт, однако считать можно только "3" байт.</DESCRIPTION>
+    <FUNCTION>InputException::DateInput</FUNCTION>
+    <DECORATED>?DateInput@InputException@@QAEPADHHH@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+        <FILENAME>EXCEPTION.cpp</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+        <FILENAME>EXCEPTION.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"str" является массивом из 1 элементов (1 байт)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+        <FILENAME>EXCEPTION.cpp</FILENAME>
+        <LINE>50</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+        <FILENAME>EXCEPTION.cpp</FILENAME>
+        <LINE>51</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+        <FILENAME>EXCEPTION.cpp</FILENAME>
+        <LINE>52</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"str" является аргументом ввода-вывода для "std::basic_istream&lt;char,std::char_traits&lt;char&gt; &gt;::getline" (объявлено в c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.25.28610\include\istream: 436)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+        <FILENAME>EXCEPTION.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>22</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Недопустимая операция чтения из "str[2]" (доступный для чтения диапазон: от 0 до 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

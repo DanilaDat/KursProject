@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GlobalInformation">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAACEAAAAA=</HashCode>
+      <FileName>GlobalInformation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HalfAYearPlan">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQQAACAA=</HashCode>
+      <FileName>HalfAYearPlan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonthPlan">
+    <Position X="2" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAgAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>MonthPlans.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Notes">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAQAAAAAA=</HashCode>
+      <FileName>Notes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Notifications">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAAEAAAAAAAAAAAAAABAAAAIAAAAAA=</HashCode>
+      <FileName>Notificatons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAEAAAAAgAAAAAAAQAAQAAAAMRgAEAQAAAAA=</HashCode>
+      <FileName>CALENDAR.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAoAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INTERFACE.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ring&lt;T&gt;">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAQAIgAAIAAEAAAAAAAEAAAgABACABgAAAIAAA=</HashCode>
+      <FileName>RING.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exception">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>EXCEPTION.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputException">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAASEAAAAAAAAAAAGAEAABABAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>EXCEPTION.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="LocalData">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAQAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>CALENDAR.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NodeRing&lt;T&gt;">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAIAAAA=</HashCode>
+      <FileName>RING.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

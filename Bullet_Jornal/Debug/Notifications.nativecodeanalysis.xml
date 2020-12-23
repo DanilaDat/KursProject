@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>EXCEPTION.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Exception::MistakeReport" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Exception::{ctor}</FUNCTION>
+    <DECORATED>??0Exception@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Exception::MistakeReport</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\User\Downloads\Telegram Desktop\Bullet_Jornal\Bullet_Jornal\</FILEPATH>
+      <FILENAME>Notifications.cpp</FILENAME>
+      <LINE>2</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Notifications::Date" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Notifications::{ctor}</FUNCTION>
+    <DECORATED>??0Notifications@@QAE@XZ</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Notifications::Date</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
